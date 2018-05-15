@@ -1,0 +1,4 @@
+/obj
+/env
+/uc_prod/__pycache__
+*.user
